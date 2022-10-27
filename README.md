@@ -5,3 +5,4 @@
 - Add linter file
 - Add a gitignore file
 - Add Webhint
+- Add stylelintrc
