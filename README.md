@@ -6,3 +6,4 @@
 - Add a gitignore file
 - Add Webhint
 - Add stylelintrc
+- Add new Html file
