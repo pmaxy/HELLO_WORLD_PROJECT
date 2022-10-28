@@ -9,3 +9,5 @@
 - Add new Html file
 - Add test.md file
 - ignore test file
+# AUTHOR
+-@PATRICK WANJIRU
