@@ -8,3 +8,4 @@
 - Add stylelintrc
 - Add new Html file
 - Add test.md file
+- ignore test file
