@@ -1,33 +1,26 @@
 # HELLO_WORLD_PROJECT
-> Introduction to microverse.
+
+> Inytroduction to Microverse
+
+
 ## Built With
-- Html, css
+-Html, Css 
+
 ## Getting Started
 
-**Create a new repo for the project**
-**clone the project to the local.**
-**create branches of the project.**
-**Add and commit the task**
-**Add linters to project**
-**Add html and css files**
-**Add and commit the files**
-**push the work**
-**pull request for code review**
-
+**Tap on code Button on the right side of repository**
+**Clone the project on the local storage of your drive**
+**Ready to edit locally on your computer**
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### copy the code link
 
-### Setup
+### clone the repository 
 
-### Install
+### Create gitflow for your project
 
-### Usage
-
-### Run tests
-
-### Deployment
+### create new files for your project
 
 
 
@@ -35,22 +28,19 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@pmaxy](https://github.com/pmaxy)
+- GitHub: [@githubhandle](https://github.com/pmaxy)
 
 
 ## 🤝 Contributing
-
-Contribution on the project are accepted from diverse feel free to
-visit the github link (https://github.com/pmaxy/HELLO_WORLD_PROJECT)
+Feel free to make any contribution 
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
--Glad to everyone engaged in this project and to the support
-everyone has been giving u
 
+-thank you for the all who have contributed on progress of this project
 ## 📝 License
 
-This project is [GNU GENERAL PUBLIC LICENSE](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
